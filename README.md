@@ -1,8 +1,8 @@
 # Welcome to my GitHub!
 
-I created this account a long time ago, and have more recently become active in it since I moved on from my previous employer.
+This account was created a long time ago, but I have become active in it over the past several months since moving on from my previous employer.
 
-I am currently studying, exploring, and re-learning various technlogies, so most of the public repositories in this account are old projects. I do plan to make a few more recent projects public, but those aren't quite ready yet :)
+I am currently studying, exploring, and re-learning various technlogies. Many of the public repositories in this account are old projects, but I am continuously working on and adding new things!
 
 ## Previous Employer GitHub Account
 
