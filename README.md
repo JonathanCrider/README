@@ -6,7 +6,7 @@ I specialize in backend development using Node.js, TypeScript, and Express, inte
 
 When I’m off the clock, you’ll probably find me camping with my family on Lake Michigan, riding my motorcycle, or playing bass on weekends. I enjoy introducing my kids to timeless movie franchises like Lord of the Rings and Star Wars, as well as diving into homelab projects like setting up Ubuntu servers to run Minecraft, using Raspberry Pi for DNS filtering, and writing bash scripts to automate tasks. I also believe memes are an underrated communication tool.
 
-I am continually studying, exploring, and re-learning various technlogies. Many of the public repositories in this account are old projects, but I am always working on and adding new things! Currently, I am upskilling/learning Python on the very fun [boot.dev](https://www.boot.dev) platform. Also going back through previous lessions with the kiddo, so double win!
+I am continually studying, exploring, and re-learning various technlogies. Many of the public repositories in this account are old projects, but I am always working on and adding new things! Currently, I am honing my backend skills and learning Python on the very fun [boot.dev](https://www.boot.dev) platform. Also going back through previous lessions with the kiddo, so double win!
 
 If you're looking for someone who brings creativity, integrity, and a bit of humor to the table, let’s connect! I’m always open to opportunities where I can collaborate, grow, and contribute to something meaningful.
 
