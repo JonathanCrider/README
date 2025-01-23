@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-Hi there! I'm a software engineer with a twist—starting my career in communications, marketing, and live event production before diving headfirst into tech. You could say my journey from wrangling middle schoolers to wrangling APIs has been anything but ordinary. Along the way, I’ve developed a knack for problem-solving, cross-functional collaboration, and turning complexity into streamlined solutions (all while keeping my sanity intact and my coffee cup full).
+Hello! I'm a software engineer with a twist—starting my career in communications, marketing, and live event production before diving headfirst into tech. You could say my journey from wrangling middle schoolers to wrangling APIs has been anything but ordinary. Along the way, I’ve developed a knack for problem-solving, cross-functional collaboration, and turning complexity into streamlined solutions (all while keeping my sanity intact and my coffee cup full).
 
 I specialize in backend development using Node.js, TypeScript, and Express, integrating third-party tools, and taming chaotic workflows. My experience includes building APIs, streamlining processes, and working extensively with HubSpot as a database of sorts. I’m also fluent in memes and excel at quickly learning new technologies to solve problems effectively. If you're wondering whether I’d be a great fit: almost certainly. I’m confident I can bring value to your team—let’s skip the hard sell and talk about how I can contribute to your goals instead!
 
