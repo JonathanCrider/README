@@ -2,7 +2,9 @@
 
 This account was created a long time ago, but I have become active in it over the past several months since moving on from my previous employer.
 
-I am currently studying, exploring, and re-learning various technlogies. Many of the public repositories in this account are old projects, but I am continuously working on and adding new things!
+I am continually studying, exploring, and re-learning various technlogies. Many of the public repositories in this account are old projects, but I am always working on and adding new things!
+
+Currently upskilling/learning Python on the very fun [boot.dev](https://www.boot.dev) platform. Also going back through previous lessions with the kiddo, so double win!
 
 ## Previous Employer GitHub Account
 
