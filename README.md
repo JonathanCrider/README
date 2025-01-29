@@ -6,7 +6,9 @@ I'm [Jonathan](https://www.linkedin.com/in/jonathandev/), a software engineer wi
 
 ## My Engineering Focus
 
-I specialize in backend development using Node.js, TypeScript, and Express, integrating third-party tools, and taming chaotic workflows. My experience includes building APIs, streamlining processes, and working extensively with HubSpot as a database of sorts. I’m also fluent in memes and excel at quickly learning new technologies to solve problems effectively. If you're wondering whether I’d be a great fit: almost certainly. I’m confident I can bring value to your team—let’s skip the hard sell and talk about how I can contribute to your goals instead!
+I specialize in backend development, with a proven track record of building and maintaining REST APIs using Node.js, TypeScript, and Express. Recently, I've expanded into systems observability, configuring Linux servers and implementing monitoring solutions with Grafana and Prometheus. My experience includes integrating complex business logic into APIs, reducing engineering time by 96% for B2B partner onboarding, and achieving a 12% improvement in customer retention through API refactoring.
+
+Currently, I'm expanding my backend expertise beyond Node.js/TypeScript. I've completed Python coursework and am advancing through SQL and Linux courses on Boot.dev. I've built various HubSpot integration APIs, and I enjoy setting up home lab projects like Pi-hole for network filtering. While my core stack is Node.js/TypeScript, I've found that picking up new languages and tools is part of the fun of engineering.
 
 ## Extra Curriculars
 
